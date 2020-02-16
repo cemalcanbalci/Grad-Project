@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#26AE90"
+    tools:context=".activity.DestinationActivity">
+
+    <ImageButton
+        android:id="@+id/ImgBtnS"
+        android:layout_width="198dp"
+        android:layout_height="119dp"
+        android:layout_marginTop="400dp"
+        android:src="@drawable/sb"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.521"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.042"
+        app:srcCompat="@drawable/sb" />
+
+    <ImageButton
+        android:id="@+id/ImgBtnKKM"
+        android:layout_width="188dp"
+        android:layout_height="119dp"
+        android:src="@drawable/kkm"
+        app:layout_constraintBottom_toTopOf="@+id/ImgBtnS"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.487"
+        app:srcCompat="@drawable/kkm" />
+
+    <TextView
+        android:id="@+id/TextKKM"
+        android:layout_width="100dp"
+        android:layout_height="16dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="KKM / CCC"
+        android:textColor="#F1F111"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/ImgBtnS"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ImgBtnKKM"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/TextS"
+        android:layout_width="150dp"
+        android:layout_height="16dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="S Binası / S Building "
+        android:textColor="#F1F111"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ImgBtnS"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
