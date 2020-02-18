@@ -1,0 +1,1 @@
+This project has 3 main parts which include hardware codes, php codes and 
