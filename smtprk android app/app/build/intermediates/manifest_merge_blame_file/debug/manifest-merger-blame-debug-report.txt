@@ -6,9 +6,9 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="14"
-8-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml
+8-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml
+9-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml
 10
 11    <!--
 12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -16,8 +16,8 @@
 14         location permissions for the 'MyLocation' functionality.
 15    -->
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:12:5-79
-16-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:12:22-76
+16-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:12:5-79
+16-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:12:22-76
 17
 18    <!--
 19         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
@@ -25,17 +25,17 @@
 21         location permissions for the 'MyLocation' functionality.
 22    -->
 23    <uses-permission android:name="android.permission.INTERNET" />
-23-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:19:5-67
-23-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:19:22-64
+23-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:19:5-67
+23-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:19:22-64
 24    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-24-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:20:5-81
-24-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:20:22-78
+24-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:20:5-81
+24-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:20:22-78
 25    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-25-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:21:5-98
-25-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:21:22-95
+25-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:21:5-98
+25-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:21:22-95
 26    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-26-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:22:5-81
-26-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:22:22-78
+26-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:22:5-81
+26-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:22:22-78
 27
 28    <!-- Include required permissions for Google Maps API to run. -->
 29    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -50,112 +50,111 @@
 33-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
 34
 35    <application
-35-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:24:5-69:19
+35-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:24:5-69:19
 36        android:name="com.example.smtprk.app.AppController"
-36-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:25:9-42
+36-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:25:9-42
 37        android:allowBackup="true"
-37-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:26:9-35
+37-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:26:9-35
 38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 38-->[androidx.core:core:1.1.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
 39        android:debuggable="true"
 40        android:icon="@drawable/icon"
-40-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:27:9-38
-41        android:label="@string/app_name"
-41-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:28:9-41
-42        android:testOnly="true" >
-43
-44        <!--
-45             The API key for Google Maps-based APIs is defined as a string resource.
-46             (See the file "res/values/google_maps_api.xml").
-47             Note that the API key is linked to the encryption key used to sign the APK.
-48             You need a different API key for each encryption key, including the release key that is used to
-49             sign the APK for publishing.
-50             You can define the keys for the debug and release targets in src/debug/ and src/release/.
-51        -->
-52        <meta-data
-52-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:38:9-40:55
-53            android:name="com.google.android.geo.API_KEY"
-53-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:39:13-58
-54            android:value="@string/google_maps_key" />
-54-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:40:13-52
-55
-56        <activity
-56-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:42:9-44:69
-57            android:name="com.example.smtprk.activity.MapsActivity2"
-57-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:43:13-51
-58            android:label="@string/title_activity_maps2" />
-58-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:44:13-57
-59        <activity android:name="com.example.smtprk.activity.DestinationActivity" />
-59-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:45:9-66
-59-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:45:19-63
-60        <activity
-60-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:46:9-48:59
-61            android:name="com.example.smtprk.activity.MapsActivity"
-61-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:47:13-50
-62            android:label="@string/title_activity_maps" />
-62-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:48:13-56
-63        <activity
-63-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:49:9-59:20
-64            android:name="com.example.smtprk.activity.LoginActivity"
-64-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:50:13-51
-65            android:label="@string/app_name"
-65-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:51:13-45
-66            android:launchMode="singleTop"
-66-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:52:13-43
-67            android:windowSoftInputMode="adjustPan" >
-67-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:53:13-52
-68            <intent-filter>
-68-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:54:13-58:29
-69                <action android:name="android.intent.action.MAIN" />
-69-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:55:17-69
-69-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:55:25-66
-70
-71                <category android:name="android.intent.category.LAUNCHER" />
-71-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:57:17-77
-71-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:57:27-74
-72            </intent-filter>
-73        </activity>
-74        <activity
-74-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:60:9-64:55
-75            android:name="com.example.smtprk.activity.RegisterActivity"
-75-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:61:13-54
-76            android:label="@string/app_name"
-76-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:62:13-45
-77            android:launchMode="singleTop"
-77-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:63:13-43
-78            android:windowSoftInputMode="adjustPan" />
-78-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:64:13-52
-79        <activity
-79-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:65:9-68:46
-80            android:name="com.example.smtprk.activity.MainActivity"
-80-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:66:13-50
-81            android:label="@string/app_name"
-81-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:67:13-45
-82            android:launchMode="singleTop" />
-82-->C:\Users\pcroot\AndroidStudioProjects\smtprk\app\src\main\AndroidManifest.xml:68:13-43
-83        <!-- Needs to be explicitly declared on P+ -->
-84        <uses-library
-84-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-85            android:name="org.apache.http.legacy"
-85-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-86            android:required="false" />
-86-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-87
-88        <activity
-88-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-89            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-89-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-90            android:exported="false"
-90-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-91-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-92
-93        <meta-data
-93-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\3922bf5c6b7f9a454f5e7cd5d0ca4300\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-94            android:name="com.google.android.gms.version"
-94-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\3922bf5c6b7f9a454f5e7cd5d0ca4300\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-95            android:value="@integer/google_play_services_version" />
-95-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\3922bf5c6b7f9a454f5e7cd5d0ca4300\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-96    </application>
-97
-98</manifest>
+40-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:27:9-38
+41        android:label="@string/app_name" >
+41-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:28:9-41
+42
+43        <!--
+44             The API key for Google Maps-based APIs is defined as a string resource.
+45             (See the file "res/values/google_maps_api.xml").
+46             Note that the API key is linked to the encryption key used to sign the APK.
+47             You need a different API key for each encryption key, including the release key that is used to
+48             sign the APK for publishing.
+49             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+50        -->
+51        <meta-data
+51-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:38:9-40:55
+52            android:name="com.google.android.geo.API_KEY"
+52-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:39:13-58
+53            android:value="@string/google_maps_key" />
+53-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:40:13-52
+54
+55        <activity
+55-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:42:9-44:69
+56            android:name="com.example.smtprk.activity.MapsActivity2"
+56-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:43:13-51
+57            android:label="@string/title_activity_maps2" />
+57-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:44:13-57
+58        <activity android:name="com.example.smtprk.activity.DestinationActivity" />
+58-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:45:9-66
+58-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:45:19-63
+59        <activity
+59-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:46:9-48:59
+60            android:name="com.example.smtprk.activity.MapsActivity"
+60-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:47:13-50
+61            android:label="@string/title_activity_maps" />
+61-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:48:13-56
+62        <activity
+62-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:49:9-59:20
+63            android:name="com.example.smtprk.activity.LoginActivity"
+63-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:50:13-51
+64            android:label="@string/app_name"
+64-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:51:13-45
+65            android:launchMode="singleTop"
+65-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:52:13-43
+66            android:windowSoftInputMode="adjustPan" >
+66-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:53:13-52
+67            <intent-filter>
+67-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:54:13-58:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:55:17-69
+68-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:55:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:57:17-77
+70-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:57:27-74
+71            </intent-filter>
+72        </activity>
+73        <activity
+73-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:60:9-64:55
+74            android:name="com.example.smtprk.activity.RegisterActivity"
+74-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:61:13-54
+75            android:label="@string/app_name"
+75-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:62:13-45
+76            android:launchMode="singleTop"
+76-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:63:13-43
+77            android:windowSoftInputMode="adjustPan" />
+77-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:64:13-52
+78        <activity
+78-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:65:9-68:46
+79            android:name="com.example.smtprk.activity.MainActivity"
+79-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:66:13-50
+80            android:label="@string/app_name"
+80-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:67:13-45
+81            android:launchMode="singleTop" />
+81-->C:\Users\pcroot\AndroidStudioProjects\graduation all\Grad-Project\smtprk android app\app\src\main\AndroidManifest.xml:68:13-43
+82        <!-- Needs to be explicitly declared on P+ -->
+83        <uses-library
+83-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+84            android:name="org.apache.http.legacy"
+84-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+85            android:required="false" />
+85-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+86
+87        <activity
+87-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+88            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+88-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+89            android:exported="false"
+89-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+90            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+90-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+91
+92        <meta-data
+92-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\65e9ddb9d7dc07f2bdc91208d3f43875\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+93            android:name="com.google.android.gms.version"
+93-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\65e9ddb9d7dc07f2bdc91208d3f43875\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+94            android:value="@integer/google_play_services_version" />
+94-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\pcroot\.gradle\caches\transforms-2\files-2.1\65e9ddb9d7dc07f2bdc91208d3f43875\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+95    </application>
+96
+97</manifest>

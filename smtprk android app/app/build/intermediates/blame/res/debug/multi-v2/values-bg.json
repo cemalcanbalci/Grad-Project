@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pcroot\\AndroidStudioProjects\\smtprk\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
+            "outputFile": "C:\\Users\\pcroot\\AndroidStudioProjects\\Grad-Project\\smtprk android app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
             "map": [
                 {
                     "source": "C:\\Users\\pcroot\\.gradle\\caches\\transforms-2\\files-2.1\\3922bf5c6b7f9a454f5e7cd5d0ca4300\\jetified-play-services-basement-17.0.0\\res\\values-bg\\values.xml",

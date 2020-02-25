@@ -1,4 +1,4 @@
-#Wed Feb 12 18:22:35 EET 2020
-base.0=C\:\\Users\\pcroot\\AndroidStudioProjects\\smtprk\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Sun Feb 16 17:07:03 EET 2020
+base.0=C\:\\Users\\pcroot\\AndroidStudioProjects\\Grad-Project\\smtprk android app\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
